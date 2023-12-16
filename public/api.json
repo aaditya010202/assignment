@@ -1,0 +1,95 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "React Interns Event",
+      "date": "2023-12-14T10:00:00",
+      "location": "React Hall",
+      "description": "An community event for all react interns"
+    },
+    {
+      "id": 2,
+      "name": "NodeJS ",
+      "date": "2023-12-16T18:30:00",
+      "location": "Backend intern’s hall",
+      "description": "A place for all backend interns come together"
+    },
+    {
+      "id": 2,
+      "name": "NodeJS ",
+      "date": "2023-12-16T18:30:00",
+      "location": "Backend intern’s hall",
+      "description": "A place for all backend interns come together"
+    },
+    {
+      "id": 3,
+      "name": "NodeJS ",
+      "date": "2023-12-16T18:30:00",
+      "location": "Backend intern’s hall",
+      "description": "A place for all backend interns come together"
+    },
+    {
+      "id": 4,
+      "name": "NodeJS ",
+      "date": "2023-12-16T18:30:00",
+      "location": "Backend intern’s hall",
+      "description": "A place for all backend interns come together"
+    },
+    {
+      "id": 5,
+      "name": "NodeJS ",
+      "date": "2023-12-16T18:30:00",
+      "location": "Backend intern’s hall",
+      "description": "A place for all backend interns come together"
+    },
+    {
+      "id": 6,
+      "name": "NodeJS ",
+      "date": "2023-12-17T18:30:00",
+      "location": "Backend intern’s hall",
+      "description": "A place for all backend interns come together"
+    },
+    {
+      "id": 7,
+      "name": "NodeJS ",
+      "date": "2023-12-16T18:30:00",
+      "location": "Backend intern’s hall",
+      "description": "A place for all backend interns come together"
+    },
+    {
+      "id": 8,
+      "name": "NodeJS ",
+      "date": "2023-12-29T18:30:00",
+      "location": "Backend intern’s hall",
+      "description": "A place for all backend interns come together"
+    },
+    {
+      "id": 9,
+      "name": "NodeJS ",
+      "date": "2023-12-19T18:30:00",
+      "location": "Backend intern’s hall",
+      "description": "A place for all backend interns come together"
+    },
+    {
+      "id": 10,
+      "name": "NodeJS ",
+      "date": "2023-12-19T18:30:00",
+      "location": "Backend intern’s hall",
+      "description": "A place for all backend interns come together"
+    },
+    {
+      "id": 11,
+      "name": "NodeJS ",
+      "date": "2023-12-19T18:30:00",
+      "location": "Backend intern’s hall",
+      "description": "A place for all backend interns come together"
+    },
+    {
+      "id": 12,
+      "name": "NodeJS ",
+      "date": "2023-12-19T18:30:00",
+      "location": "Backend intern’s hall",
+      "description": "A place for all backend interns come together"
+    }
+  ]
+}
